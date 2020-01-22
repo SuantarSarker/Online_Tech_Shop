@@ -1,0 +1,41 @@
+#container{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+#c{
+	align-content: center;
+	border:solid 1px;
+	float: left;
+	margin-bottom: 40px;
+	width:31.01%;
+	margin-left: 20px;
+	overflow: hidden;
+}
+
+#p{
+
+	border:solid 1px;	
+	float: right;
+	width: 64%;
+}
+
+#t{
+	margin-left: 5px;
+	
+	float: left;
+	width: 30%;
+
+}
+#b{
+	margin-top: 170px;
+	margin-left: 5px;
+
+}
+
+#tp{
+
+
+}
+
+
